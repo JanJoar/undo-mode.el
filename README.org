@@ -1,7 +1,7 @@
 #+title: undo-mode.el
 #+author: Joar von Arndt
 
-A lot of new users have trouble understanding GNU Emacs' undo system, so with the entrence of Sanna Nielsen into /Mellodifestivalen Hall of Fame/ in 2025-02-16 I decided to quickly write a major mode that allows Emacs users to quickly write Nielsen's Eurovision Song Contest entry, even if they don't remember the lyrics at the moment. You can find a recorded performance [[https://youtu.be/55ZJKyLj28w?si=-bw7yUYGUzDTqziA][here]].
+A lot of new users have trouble understanding GNU Emacs' undo system, so with the entrance of Sanna Nielsen into /Melodifestivalen Hall of Fame/ in 2025-02-16 I decided to quickly write a major mode that allows Emacs users to quickly write Nielsen's Eurovision Song Contest entry, even if they don't remember the lyrics at the moment. You can find a recorded performance [[https://youtu.be/55ZJKyLj28w?si=-bw7yUYGUzDTqziA][here]].
 
 #+begin_example
 Silent, I can't wait here silent
