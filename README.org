@@ -3,7 +3,7 @@
 
 A lot of new users have trouble understanding GNU Emacs' undo system, so with the entrence of Sanna Nielsen into /Mellodifestivalen Hall of Fame/ in 2025-02-16 I decided to quickly write a major mode that allows Emacs users to quickly write Nielsen's Eurovision Song Contest entry, even if they don't remember the lyrics at the moment. You can find a recorded performance [[https://youtu.be/55ZJKyLj28w?si=-bw7yUYGUzDTqziA][here]].
 
-#+begin_quote
+#+begin_example
 Silent, I can't wait here silent
 Working up a storm inside my head
 Nothing, I just stood for nothing
@@ -46,4 +46,4 @@ Gonna get out, through the rain
 I know that I am over you
 At last I know what I should do
 Undo my sad
-#+end_quote
+#+end_example
